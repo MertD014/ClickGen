@@ -9,6 +9,7 @@ How to use?
 4. Now you can start the clicking by the start/stop button or your hotkey.
 
 Please share your feedback with me. I would like to make ClickGen the auto clicking app.
-![2024-06-2219-48-23-ezgif com-video-to-gif-converter](https://github.com/Quante31/ClickGen/assets/128967161/0462e397-3520-4518-aacc-568ac265f80c)
+![2024-06-2222-40-54-ezgif com-video-to-gif-converter](https://github.com/Quante31/ClickGen/assets/128967161/457f1e14-7a6b-4d01-abc4-e80eae65c58f)
+
 
 
